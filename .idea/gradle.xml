@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Phone Book (1)/task" />
+            <option value="$PROJECT_DIR$/Phone Book (1)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Phone Book (1)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Phone Book (1)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Phone Book (1)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Phone Book (1)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Phone Book (1)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Phone Book/task" />
+            <option value="$PROJECT_DIR$/Topics/Linear search/How many repetitions" />
+            <option value="$PROJECT_DIR$/Topics/Linear search/Searching for an array in an array" />
+            <option value="$PROJECT_DIR$/Topics/Linear search/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Getting information on a day" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/LocalDate class" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Print dates of a year with an offset" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/The first and the last day of a month" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/The first day of a month or not" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/The n-th day from the end of a month" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add 11 hours and print the date" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add days and subtract hours" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Create LocalDateTime" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/LocalDateTime class" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Methods of LocalDateTime" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Subtracting hours and adding minutes" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/The passed hours since the beginning of year" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/LocalTime constants" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Millisecond precision" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Representing the same time" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Return time without seconds" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Same time" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Seconds since start of a day" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Find a substring" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/K-combination" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Number of decompositions" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Operations with number n" />
+            <option value="$PROJECT_DIR$/Topics/Recursion/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
